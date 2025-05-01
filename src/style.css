@@ -1,5 +1,10 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+body {
+    text-align: center;
+    font-weight: bold;
+    margin-top:200px;
+    font-size: 50px;
+}
+#excuse {
+    color: blue;
+    font-family: Schoolbell;
 }
